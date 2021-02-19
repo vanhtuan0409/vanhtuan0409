@@ -2,7 +2,7 @@ I’m a Software Engineer with a strong background in Computer Science foundatio
 
 Currently I'm open for any partime, hourly jobs.
 
-# Skill sets
+### Skill sets
 - Languages: Go, Javascript/NodeJS, Python, Rust
 - Container technologies: Docker, Kubernetes
 - CI/CD tools: Jenkins, Make, Ansible
@@ -13,6 +13,6 @@ Currently I'm open for any partime, hourly jobs.
 - Git: branches, rebase, conflict, merge, workflow
 - Editor: vim, vscode
 
-# Projects
+### Projects
 
 Some of my projects are pinned bellow :point_down:
